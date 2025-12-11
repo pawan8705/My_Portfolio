@@ -25,6 +25,6 @@ This is my Personal Portfolio Website, designed and developed using modern web t
 
 # 🚀 Live Demo
 
-View Live Portfolio: https://portfolio-sooty-alpha-g4ekieye96.vercel.app/
+View Live Portfolio: https://pawan-tripathi-portfolio.vercel.app
 
 Feel free to explore my portfolio and get in touch!
