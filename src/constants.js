@@ -155,8 +155,8 @@ export const projects = [
       "This project is a responsive and user-friendly Admin Dashboard built using React.js, TypeScript, HTML, and CSS. It offers a clean and modern UI design with interactive data visualization components, making it ideal for managing users, products, orders, and other administrative functionalities.",
     image: adminLogo,
     tags: ["HTML", "CSS", "TypeScript", "Tailwind CSS", "React Js", "Chart Libraries", "React Router"],
-    github: "https://github.com/pawan8705/React-Admin-Dashboard",
-    webapp: "https://react-admin-dashboard-puce-psi.vercel.app/",
+    github: "https://github.com/pawan8705/Admin_Dashboard",
+    webapp: "https://admin-dashboard-five-umber-w63h4xuzcg.vercel.app/",
   },
   {
     id: 3,
