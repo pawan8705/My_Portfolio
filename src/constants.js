@@ -185,8 +185,8 @@ export const projects = [
       "A powerful and user-friendly JavaScript application designed to uncover and showcase my all small Projects.",
     image: portfolioLogo,
     tags: ["HTML", "CSS", "JavaScript", "Tailwind CSS", "React Js"],
-    github: "https://github.com/pawan8705/My_Portfolio";
-    webapp: "https://pawan-tripathi-portfolio.vercel.app";
+    github: "https://github.com/pawan8705/My_Portfolio",
+    webapp: "https://pawan-tripathi-portfolio.vercel.app",
   {
     id: 6,
     title: "Restaurant website",
