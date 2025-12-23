@@ -4,9 +4,9 @@ import adminLogo from './assets/work_logo/Admin Dashboard.png';
 import nikeLogo from './assets/work_logo/Nike.png';
 import portfolioLogo from './assets/work_logo/Portfolio.png';
 import RestaurantLogo from './assets/work_logo/Restaurant.png';
-import Doctor from "./assets/work_logo/DoctorWebApp.png"
-import Expense from "./assets/work_logo/Expense.png"
-import AIAdmin from "./assets/work_logo/AI Admin.png"
+import DoctorLogo from "./assets/work_logo/DoctorWebApp.png"
+import ExpenseLogo from "./assets/work_logo/Expense.png"
+import AIAdminLogo from "./assets/work_logo/AI Admin.png"
 // import webverseLogo from './assets/company_logo/webverse_logo.png';
 
 
@@ -133,7 +133,7 @@ export const projects = [
     title: "Doctor Appointment Booking App",
     description:
       "Doctor Appointment App is a modern, responsive web application that allows users to securely book, edit, and delete doctor appointments. Built with React and Tailwind CSS, it offers a smooth and intuitive UI with light/dark mode support. Firebase powers the authentication and real-time database to ensure fast and reliable data handling.",
-    image: Doctor,
+    image: DoctorLogo,
     tags: ["HTML", "CSS", "JavaScript", "Tailwind CSS", "React Js", "Firebase", "Router"],
     github: "https://github.com/pawan8705/Doctor_Booking_App",
     webapp: "https://doctor-appointment-booking-app-seven.vercel.app/ ",
@@ -202,7 +202,7 @@ export const projects = [
     title: "Expense Tracker",
     description:
       "Expense Tracker is a modern and responsive finance management app that helps users easily add, track, and organize their daily expenses. Built using React, TypeScript, Tailwind CSS, and shadcn-ui, it delivers a clean UI with smooth and efficient performance powered by Vite. The app provides a simple and intuitive experience for managing budgets and keeping financial records organized.",
-    image: Expense,
+    image: ExpenseLogo,
     tags: ["HTML", "CSS", "TypeScript", "Tailwind CSS", "React Js", "Vite", "shadcn-ui"],
     github: "https://github.com/pawan8705/expense-tracker-8705",
     webapp: "https://expense-tracker-8705.lovable.app",
@@ -212,7 +212,7 @@ export const projects = [
     title: "AI Admin Dashboard",
     description:
       "This project is a responsive and user-friendly Admin Dashboard built using Ai with React.js, TypeScript, HTML, and CSS. It offers a clean and modern UI design with interactive data visualization components, making it ideal for managing users, products, orders, and other administrative functionalities.",
-    image: AIAdmin,
+    image: AIAdminLogo,
     tags: ["React", "TypeScript", "Tailwind CSS", "shadcn/ui", "React Router Dom", "Recharts", "TanStack"],
     github: "https://github.com/pawan8705/insight-hub",
     webapp: "https://dashboard-bypawan8705.lovable.app",
